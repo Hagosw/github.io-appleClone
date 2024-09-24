@@ -22,7 +22,7 @@ To get a local copy up and running, follow these steps:
 Open the index.html file in your browser to view the project.
 ## Features
 - Pixel-perfect layout
-- Responsive design and CSS animations (features that will be added in the feature)
+- Responsive design and CSS animations (features that will be added in the future)
 
 ## Screenshots 
 ![alt text](image.png)
